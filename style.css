@@ -1,0 +1,9 @@
+.logo{
+    text-align: center;
+}
+
+.poema1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
